@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Swimming",
+        "description": "Swimming is a low-impact workout that burns energy while improving muscle\nstrength, blood flow, and lung and heart capacity. Thirty minutes of casual\nswimming burns about the same number of calories as 30 minutes of jogging.\nHowever, swimming is less stressful on the body. It may be an appropriate\nexercise if you have joint problems or limited mobility. To increase your\ncaloric burn during swimming, do laps or water aerobics.",
+        "calories_burned": "198-294 Cal",
+        "image_filename": "swimming.jpg",
+        "image_path": "D:\\BANGKIT\\images\\swimming.jpg"
+    },
+    {
+        "name": "Hiking-knee Running",
+        "description": "High-knee running is a vigorous cardio workout. It raises your heart rate while\nstrengthening your lower body. As a high-intensity exercise, high-knee running\nis useful for burning calories in a short amount of time. To do this exercise,\nall you need to do is run in place while lifting your knees as high as possible\nand quickly pump your arms up and down.",
+        "calories_burned": "240-355.5",
+        "image_filename": "high-knee running.jpg",
+        "image_path": "D:\\BANGKIT\\images\\high-knee running.jpg"
+    },
+    {
+        "name": "Hiking",
+        "description": "Hiking is one of the best ways to escape to the outdoors, turn off technology\nand get in some movement. And since you are not walking on a level path like\nwalking down the street, navigating different terrains or hills challenges more\nmuscles, so you burn more calories.",
+        "calories_burned": "176 Cal",
+        "image_filename": "hiking.jpg",
+        "image_path": "D:\\BANGKIT\\images\\hiking.jpg"
+    },
+    {
+        "name": "Biking",
+        "description": "There\u2019s nothing like a nice evening bike ride when the weather\u2019s nice, and it\u2019s\nactually a great workout too. If you are an avid biker, you may go faster than\n5.5 mph, but if you tend to bike at a leisurely pace, you can still burn 117\ncalories per 30 minutes. Note that this is different than if you do interval\ntraining or classes on spin bikes.",
+        "calories_burned": "210-311 Cal",
+        "image_filename": "biking.jpg",
+        "image_path": "D:\\BANGKIT\\images\\biking.jpg"
+    },
+    {
+        "name": "Walking",
+        "description": "Walking is the simplest way to burn calories at home. It\u2019s also ideal if you\u2019re\nrecovering from an injury. You can do it around your house or in your backyard,\nso it\u2019s extremely convenient. If you do housework while walking around your\nhome, you\u2019ll burn even more calories per minute.",
+        "calories_burned": "3.1-4.6 Cal",
+        "image_filename": "walking.jpg",
+        "image_path": "D:\\BANGKIT\\images\\walking.jpg"
+    }
+]

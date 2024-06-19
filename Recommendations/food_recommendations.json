@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Vagatables",
+        "description": "Vegetables of all kinds can assist with weight loss, says Feit. For example,\ncruciferous vegetables like broccoli, cauliflower, Brussels sprouts and cabbage\nare high in fiber and vitamins and help reduce digestive issues. Meanwhile, dark\ngreen leafy vegetables contain protein and are a good source of vitamins,\nminerals and fiber. And crunchy vegetables like celery and jicama are great low-\ncalorie options for snacking. A typical serving size of vegetables is about 1\ncup (100-150 grams) and can range from 25-75 calories depending on the type of\nvegetable.",
+        "calories": "25-75 Cal",
+        "image_filename": "vagatables.jpg",
+        "image_path": "D:\\BANGKIT\\images\\vagatables.jpg"
+    },
+    {
+        "name": "Salmon",
+        "description": "Salmon is high in protein and omega-3 fatty acids, says Rima Kleiner, registered\ndietitian nutritionist and founder of wellness coaching company Smart Mouth\nNutrition in Greensboro, North Carolina. Research suggests omega-3 fatty acids\nmay help people with weight classified as overweight or obesity feel fuller[2].\nAnd fish in general may help you feel satisfied and fuller longer than other\nproteins like eggs and beef, says Kleiner.",
+        "calories": "182-206 Cal",
+        "image_filename": "salmon.jpg",
+        "image_path": "D:\\BANGKIT\\images\\salmon.jpg"
+    },
+    {
+        "name": "Shrimp",
+        "description": "Shrimp promotes increased feelings of satiety, says Kleiner. Eating shrimp\nappears to decrease appetite by stimulating the production of cholecystokinin,\nor CCK, a hormone that signals to your stomach that you\u2019re satisfied. Plus,\nshrimp and other shellfish contain zinc and selenium, two important minerals for\nimmune health and increased energy. It's quite low in calories, providing only\n84 calories in a 3-ounce serving",
+        "calories": "84 Cal",
+        "image_filename": "shrimp.jpg",
+        "image_path": "D:\\BANGKIT\\images\\shrimp.jpg"
+    },
+    {
+        "name": "Lupini Beans",
+        "description": "Lupini beans are high in prebiotic fiber that feeds the beneficial bacteria in\nyour gut, says Landau. \u201cWhen your gut bacteria is well nourished, the number and\ntype of bacteria present multiplies. A well-populated and diverse microbiome\nimproves gut health, which makes your cells more responsive to insulin, helping\nto remove fat stored around the waist,\u201d she says. One 1 cup (166g) of lupini\nbeans, cooked and boiled without salt, contains approximately 198 calories",
+        "calories": "198 Cal",
+        "image_filename": "lupini beans.jpg",
+        "image_path": "D:\\BANGKIT\\images\\lupini beans.jpg"
+    },
+    {
+        "name": "Unripe Banana",
+        "description": "Unripe banana contain one of the world\u2019s richest sources of prebiotic-resistant\nstarch, says Landau. Prebiotic-resistant starch makes your cells more responsive\nto insulin, helping to prevent fat storage around your waistline. Combined with\nprotein (say, in a smoothie with a protein powder and/or nut butter), it can\nkeep you satisfied for hours. In addition, it has 121 calories in 120 g.",
+        "calories": "121 Cal",
+        "image_filename": "unripe banana.jpg",
+        "image_path": "D:\\BANGKIT\\images\\unripe banana.jpg"
+    }
+]
